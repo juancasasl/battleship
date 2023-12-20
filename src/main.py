@@ -34,7 +34,7 @@ e.g., A1, E10, etc.
 
 These icons will guide you along the way:
      
-🌊 Empty or un-navigated sea
+🌊 Empty or unexplored sea
 🚢 A standing ship (or part of one)
 💥 A struck ship (or part of one)
 ✅ A previously struck position

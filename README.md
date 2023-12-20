@@ -23,7 +23,7 @@ Basic implementation of the popular game [Battleship](https://en.wikipedia.org/w
 - **Hard** difficulty avoids repeat guesses by the machine.
 
 ## Key
-🌊  Empty or un-navigated sea
+🌊  Empty or unexplored sea
 
 🚢  A standing ship (or part of one)
 
